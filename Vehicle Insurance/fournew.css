@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    margin-bottom: 80px;
+    color: dimgray;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: whitesmoke;
+}
+
+body{
+    background-color: deepskyblue;
+}
+.container{
+    width: 500px;
+}

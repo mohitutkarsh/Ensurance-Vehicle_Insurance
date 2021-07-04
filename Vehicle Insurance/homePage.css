@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.container {
+    margin-top: 30px;
+}
+#c {
+    border-style: outset;
+    height: max-content;
+}
+
+#c1 {
+    border-style: outset;
+    height: max-content;
+}
+
+#c2 {
+    border-style: outset;
+    height: max-content;
+}
+
+body {
+    background-color: grey;
+}
+
+a {
+    color: black;
+}
+
+#happy {
+    height: 500px;
+}
+
+#hap {
+    height: 500px;
+}
+
+#happ {
+    height: 485px;
+}
+
+#carouselExampleControls {
+    width: 1400px;
+    height: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+

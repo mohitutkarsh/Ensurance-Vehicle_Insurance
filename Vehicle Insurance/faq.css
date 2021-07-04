@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+body {
+    background-color: darkolivegreen;
+
+}
+
+p {
+    color: white;
+}

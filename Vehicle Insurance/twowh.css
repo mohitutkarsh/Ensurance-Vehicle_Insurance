@@ -1,0 +1,24 @@
+body {
+    background-color: yellow;
+}
+
+h2{
+    margin-bottom: 20px;
+    color: dodgerblue;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: dodgerblue;
+}
+
+h3{
+
+    margin-bottom: 20px;
+    color: dodgerblue;
+    margin-top: 50px;
+    text-align: center;
+}
+

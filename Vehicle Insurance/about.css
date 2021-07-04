@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+p{
+    margin-top: 20px;
+    color: brown;
+}
+
+h1{
+    margin-bottom: 50px;
+    text-align: center;
+    color: blue;
+}
+img{
+    width: fit-content;
+    height: fit-content;
+}
+
+h2{
+    color: white;
+}

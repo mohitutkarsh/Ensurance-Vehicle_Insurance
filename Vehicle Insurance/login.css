@@ -1,0 +1,26 @@
+h1 {
+    margin-left: 470px;
+    margin-bottom: 50px;
+    color: yellow;
+
+}
+
+#fr {
+    margin-left: 500px;
+    color: white;
+}
+
+.form-check{
+    margin-top: 10px;
+}
+
+body{
+   background-color: cadetblue;
+}
+
+#button {
+    margin-left: 15px;
+  }
+
+
+
